@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<bai3>
+	<KhachHangs>
+		<KhachHang>
+			<MaKH>KH001</MaKH>
+			<TenKH>Kim Anh</TenKH>
+			<SoDT>0123456</SoDT>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH002</MaKH>
+			<TenKH>Nguyen Van A</TenKH>
+			<SoDT>901234567</SoDT>
+		</KhachHang>
+		<KhachHang>
+			<MaKH>KH004</MaKH>
+			<TenKH>PhamThuD</TenKH>
+			<SoDT>905556677</SoDT>
+		</KhachHang>
+	</KhachHangs>
+	<SanPhams>
+		<SanPham Loai="2">
+			<MaSP>SP001</MaSP>
+			<TenSP>Son Thoi LiRuby Red</TenSP>
+			<XuatXu>HanQuoc</XuatXu>
+			<GiaBan>450000.0</GiaBan>
+			<TrongLuong>0.05</TrongLuong>
+			<NgaySX>10/06/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="2">
+			<MaSP>SP002</MaSP>
+			<TenSP>Phan Nuoc Kiem Dau</TenSP>
+			<XuatXu>HanQuoc</XuatXu>
+			<GiaBan>780000.0</GiaBan>
+			<TrongLuong>0.1</TrongLuong>
+			<NgaySX>25/08/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="2">
+			<MaSP>SP003</MaSP>
+			<TenSP>Mascara Lam Dai Mi</TenSP>
+			<XuatXu>TrungQuoc</XuatXu>
+			<GiaBan>120000.0</GiaBan>
+			<TrongLuong>0.03</TrongLuong>
+			<NgaySX>15/05/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="1">
+			<MaSP>SP004</MaSP>
+			<TenSP>Kem Duong Am Chuyen Sau</TenSP>
+			<XuatXu>Phap</XuatXu>
+			<GiaBan>850000.0</GiaBan>
+			<TrongLuong>0.2</TrongLuong>
+			<NgaySX>01/04/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="1">
+			<MaSP>SP005</MaSP>
+			<TenSP>Serum Phuc Hoi Da</TenSP>
+			<XuatXu>Phap</XuatXu>
+			<GiaBan>1200000.0</GiaBan>
+			<TrongLuong>0.08</TrongLuong>
+			<NgaySX>05/09/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="1">
+			<MaSP>SP006</MaSP>
+			<TenSP>Sữa Rua Mat Tao Bot</TenSP>
+			<XuatXu>NhatBan</XuatXu>
+			<GiaBan>280000.0</GiaBan>
+			<TrongLuong>0.25</TrongLuong>
+			<NgaySX>20/07/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="1">
+			<MaSP>SP007</MaSP>
+			<TenSP>Toner Hoa Hong</TenSP>
+			<XuatXu>VietNam</XuatXu>
+			<GiaBan>180000.0</GiaBan>
+			<TrongLuong>0.5</TrongLuong>
+			<NgaySX>01/03/2025</NgaySX>
+		</SanPham>
+		<SanPham Loai="3">
+			<MaSP>SP008</MaSP>
+			<TenSP>Kem Chong Nang</TenSP>
+			<XuatXu>Phap</XuatXu>
+			<GiaBan>850000.0</GiaBan>
+			<TrongLuong>0.2</TrongLuong>
+			<NgaySX>01/04/2025</NgaySX>
+		</SanPham>
+	</SanPhams>
+</bai3>

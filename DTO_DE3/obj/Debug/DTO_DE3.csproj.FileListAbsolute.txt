@@ -1,0 +1,2 @@
+C:\Users\Dell\source\repos\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG-LÝ THUYẾT\GUI_DE3\DTO_DE3\obj\Debug\DTO_DE3.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG-LÝ THUYẾT\GUI_DE3\DTO_DE3\obj\Debug\DTO_DE3.csproj.CoreCompileInputs.cache
